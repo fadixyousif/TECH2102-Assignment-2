@@ -8,6 +8,8 @@ function App() {
         <div>
           <p>
             Fadi Yousif
+            <br />
+            TECH2102 - Enterprise Computing
           </p>
         </div>
       </section>
