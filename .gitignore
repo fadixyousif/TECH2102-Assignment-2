@@ -23,5 +23,6 @@ dist-ssr
 *.sln
 *.sw?
 
-# pnpm lock file
+# pnpm and npm lock file
 pnpm-lock.yaml
+package-lock.json
